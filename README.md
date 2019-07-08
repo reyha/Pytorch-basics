@@ -1,8 +1,8 @@
 # Pytorch-basics
 
-This repo aims at discussing Jeremy Howard's (founder of fast.ai) tutorial on PyTorch's neural network module (torch.nn).
+This repo implements Jeremy Howard's (founder of fast.ai) tutorial on PyTorch's neural network module (torch.nn).
 
-It is divided into two parts:
+It is divided in two parts:
 
 Part 1. shows how to create a custom NN classifier without using torch.nn 
 
